@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "253583446682",
+    "project_id": "ssms-revamp-final",
+    "storage_bucket": "ssms-revamp-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253583446682:android:7f78f12940911d8aa68523",
+        "android_client_info": {
+          "package_name": "com.aryan.gupta.sutt_task_aryan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253583446682-itp68v6b6ll1odggjlvhdqe3cd1qv806.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0qYHgReGd5-m3MkKGZdLZxEaFkSTonxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253583446682-itp68v6b6ll1odggjlvhdqe3cd1qv806.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "253583446682-oplmcosf2rlob55mfg9qsokaj0g9tv97.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "gupta.aryan.com.ssmsRevamp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
